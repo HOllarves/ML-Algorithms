@@ -2,7 +2,7 @@
 
 Examples of diverse ML algorithms with their respective data-sets and visualizations. Will keep posting as I study more :)
 
-So far you could find examples for:
+So far you can find examples for:
 
 - Apriori
 - Decision Tree Classification
